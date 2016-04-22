@@ -37,10 +37,16 @@ https://www.codeeval.com/open_challenges/4/
 ######PHP Solution: [answer 1](easy/Sum_Of_Primes_PHP_ans_1.php)
 
 
-###multiplication Tables
+###Multiplication Tables
 This challenge goes back to math class that wants you to create a multiplication table for 1 thru 12. I took it a step further and made the function so that you could have a min and max input.
 https://www.codeeval.com/open_challenges/23/
 ######PHP Solution: [answer 1](easy/Multiplication_Tables_PHP_ans_1.php)
+
+
+###Clean Up The Words
+This challenge took in a string and wants an output with all lowercase and no numbers or special symbols.
+https://www.codeeval.com/open_challenges/205/
+######JS Solution: [answer 1](easy/Clean_Up_The_Words_JS_ans_1.js)
 
 
 ##Medium
